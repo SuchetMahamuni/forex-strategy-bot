@@ -1,0 +1,9 @@
+customtkinter
+CTkMessagebox
+calendar
+windows-Toasts
+MetaTrader5
+pandas
+pytz
+openpyxl
+xlwings
