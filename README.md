@@ -10,9 +10,10 @@ A simplified version of a trading assistant I built for live Forex markets using
 - Modular design for custom strategies
 
 ## 📈 Technologies Used
-- Python
-- MetaTrader5 Python API
-- Pandas, NumPy
+- Langugage: Python
+- API Integration: MetaTrader5 Python API
+- Data Handling: Pandas, NumPy
+- GUI Framework: customtkinter
 
 ## ⚠️ Disclaimer
 This repository is for showcase purposes only. Full working code is proprietary and available upon request.
