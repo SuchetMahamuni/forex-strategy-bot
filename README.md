@@ -17,5 +17,8 @@ A simplified version of a trading assistant I built for live Forex markets using
 ## ⚠️ Disclaimer
 This repository is for showcase purposes only. Full working code is proprietary and available upon request.
 
-## 📷 Screenshot
-![Demo](screenshots/performance.png)
+## 📷 Screenshots
+A few screenshots of the profits made: [Glimpse](screenshots/profits-in-large-duration.jpg)
+
+## 🎥 Demo Video
+Watch the demo here: [Click to watch](https://drive.google.com/file/d/1CCu49P-jtek1OTw5AhZkh9rhTHsBzP_k/view?usp=sharing)
